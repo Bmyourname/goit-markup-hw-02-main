@@ -1,6 +1,8 @@
 body {
     font-family: "Roboto", sans-serif, "Raleway",
         sans-serif;
+    background-color: #FFFFFF;
+    color #434455;
 }
 
 a {
@@ -25,17 +27,22 @@ button {
 }
 
 .logo {
-    font-family: "Raleway", sans-serif,
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #4D5AE5;
+    color:  #4D5AE5;
 }
 
 .logo-style {
     font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 117%;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
     color: #2E2F42;
 }
 
