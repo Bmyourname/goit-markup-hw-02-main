@@ -90,15 +90,6 @@ button {
     color: #404BBF;
 }
 
-.tel {
-    color: currentColor;
-}
-
-.tel:hover,
-.tel:focus {
-    color: #404BBF;
-}
-
 /* #endregion Header */
 
 /* #region Main */
