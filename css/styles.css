@@ -158,12 +158,15 @@ button {
     line-height: 111%;
     letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
     color: #2E2F42;
 }
 
 .team_list {}
 
-.team_def {}
+.team_def {
+    background-color: #FFFFFF;
+}
 
 .name {
     font-weight: 500;
@@ -190,18 +193,7 @@ button {
     background-color: #2E2F42;
 }
 
-.logo_footer {
-    font-weight: 700;
-    font-size: 18px;
-    line-height: 117%;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-    color: #2E2F42;}
-
-.logo-style-footer {
-    font-family: "Raleway", sans-serif;
-    color: #4D5AE5;
-}
+.section5{}
 
 .final_word {
 font-weight: 400;
