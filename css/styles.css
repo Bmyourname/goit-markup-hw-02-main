@@ -1,8 +1,9 @@
 body {
     font-family: "Roboto", sans-serif, "Raleway",
         sans-serif;
-    background-color: #FFFFFF;
     color #434455;
+    background-color: #FFFFFF;
+    
 }
 
 a {
@@ -19,12 +20,9 @@ button {
 }
 
 /* #region Header */
-.header-page {
-    background-color: #ffffff;
-}
+.header-page {}
 
-.nav-page {
-}
+.nav-page {}
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -33,11 +31,11 @@ button {
     line-height: 117%;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color:  #4D5AE5;
+    color: #4D5AE5;
 }
 
 .logo-style {
-    font-family: "Roboto", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 117%;
@@ -72,7 +70,7 @@ button {
 }
 
 .address {
-    font-size: 16px;
+    font-size: normal;
 }
 
 .adress-list {}
