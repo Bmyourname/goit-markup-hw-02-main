@@ -32,9 +32,10 @@ button {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
+}
 
 .logo-style {
-
+    font-family: "Roboto", sans-serif;
     color: #2E2F42;
 }
 
@@ -43,7 +44,7 @@ button {
     font-size: 16px;
     line-height: 150%;
     letter-spacing: 0.02em;
-    color: #4D5AE5;
+    color: #2E2F42;
 }
 
 .nav-item {
@@ -64,12 +65,10 @@ button {
 }
 
 .address {
-    font-size: normal;
+    font-size: 16px;
 }
 
-.adress-list {
-    font-size: normal;
-}
+.adress-list {}
 
 .mail_tel {
     font-weight: 400;
