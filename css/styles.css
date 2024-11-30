@@ -122,17 +122,17 @@ button {
     background-color: #404BBF;
 }
 
-.Values {}
+.values {}
 
-.Values_title {
+.values_title {
     color: transparent
 }
 
-.Values_list {}
+.values_list {}
 
-.Val_list_def {}
+.val_list_def {}
 
-.Val_name {
+.val_name {
     font-weight: 500;
     font-size: 20px;
     line-height: 120%;
@@ -140,7 +140,7 @@ button {
     color: #2E2F42;
 }
 
-.Val_def {
+.val_def {
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
@@ -148,11 +148,11 @@ button {
     color: #434455;
 }
 
-.Team {
+.team {
     background-color: #F4F4FD;
 }
 
-.Team_title {
+.team_title {
     font-weight: 700;
     font-size: 36px;
     line-height: 111%;
