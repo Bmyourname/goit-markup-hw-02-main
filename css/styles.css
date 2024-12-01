@@ -190,11 +190,11 @@ button {
 
 /* #region Footer */
 
-.footer{}
-
-.section5 {
+.footer{
     background-color: #2E2F42;
 }
+
+.section5 {}
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -206,7 +206,7 @@ button {
     color: #4D5AE5;
 }
 
-.logo-style {
+.logo-style-footer {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
