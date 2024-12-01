@@ -1,7 +1,7 @@
 body {
     font-family: "Roboto", sans-serif, "Raleway",
         sans-serif;
-    color #434455;
+    color: #434455;
     background-color: #FFFFFF;
     
 }
@@ -20,9 +20,6 @@ button {
 }
 
 /* #region Header */
-.header-page {}
-
-.nav-page {}
 
 .logo {
     font-family: "Raleway", sans-serif;
@@ -122,15 +119,9 @@ button {
     background-color: #404BBF;
 }
 
-.values {}
-
 .values_title {
     color: transparent
 }
-
-.values_list {}
-
-.val_list_def {}
 
 .val_name {
     font-weight: 500;
@@ -162,8 +153,6 @@ button {
     color: #2E2F42;
 }
 
-.team_list {}
-
 .team_def {
     background-color: #FFFFFF;
 }
@@ -193,8 +182,6 @@ button {
 .footer{
     background-color: #2E2F42;
 }
-
-.section5 {}
 
 .logo-footer {
     font-family: "Raleway", sans-serif;
